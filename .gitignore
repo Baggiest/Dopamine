@@ -1,5 +1,6 @@
 /data
-
+/src/bakery/baked-video/*
+/src/bakery/raw-video/*
 # Logs
 logs
 *.log

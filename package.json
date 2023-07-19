@@ -14,6 +14,7 @@
     "@types/cron": "^2.0.1",
     "@types/node": "^20.4.2",
     "cron": "^2.3.1",
+    "dotenv": "^16.3.1",
     "node-json-db": "^2.2.0",
     "node-media-server": "^2.6.2",
     "pully": "^2.7.0",
